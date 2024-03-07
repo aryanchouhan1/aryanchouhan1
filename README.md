@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aryanchouhan1
 - 👀 I’m interested in web development 
 - 🌱 I’m currently studing in IIPS  
-- 💞️ I’m looking to collaborate on mini web progect
+- 💞️ I’m looking to collaborate on mini web project
 - 📫 How to reach me :- WhatsApp no. 9893422479
 
 <!---
